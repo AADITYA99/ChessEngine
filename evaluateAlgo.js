@@ -1,3 +1,4 @@
+//first sample commit
 function minimax(boardPosition, depth, isMax){
     if(depth==0){
         boardPosition.pieceValueScore();
